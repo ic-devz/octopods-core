@@ -30,7 +30,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "octopods_core",
+  "name": "@octopods/core",
   "author": "ichavezrg",
   "module": "dist/core.esm.js",
   "size-limit": [
